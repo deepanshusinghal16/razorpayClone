@@ -11,6 +11,13 @@ A live demo of the Razorpay Clone can be found [here](https://deepanshusinghal16
 
 
 ## Screenshots
+![Screenshot (264)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/5ab8b006-9239-43ae-a81f-dee20147c2d5)
+![Screenshot (265)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/f04296ee-620b-4b56-a8e7-c5b43bb45546)
+![Screenshot (266)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/c995c037-a1a0-4192-89f9-b9a9fa1042c6)
+![Screenshot (267)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/91ac0e9b-0a68-4520-85e4-c0d24ea3e7e6)
+![Screenshot (268)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/7f1978f1-4757-4e27-84da-486ccf2ff0a7)
+![Screenshot (269)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/2d6950e0-4bd4-4dd1-860e-80e299333c7a)
+![Screenshot (270)](https://github.com/deepanshusinghal16/razorpayClone/assets/86514255/93f8c8b4-4306-4293-9f2d-80c367be79ca)
 
 
 ## Technologies Used
